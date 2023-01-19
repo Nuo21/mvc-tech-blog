@@ -6,4 +6,8 @@ This is a CMS-style blog site that allows its users to publish articles, blog po
 
 ## Screenshot
 
+![techblogss](https://user-images.githubusercontent.com/111789697/213332380-633441d7-93d6-455f-bf2c-bf5150d0a8f0.png)
+
 ## Live Deploy Link
+
+https://quiet-plains-59798.herokuapp.com/
